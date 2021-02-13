@@ -1,4 +1,4 @@
-name: bike_sharing
+name: basic_neural_net
 channels:
   - defaults
 dependencies:
